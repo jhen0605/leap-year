@@ -62,9 +62,9 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="農曆" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="77w-Ip-WRP">
-                                <rect key="frame" x="20" y="402" width="374" height="66"/>
+                                <rect key="frame" x="0.0" y="402" width="414" height="66"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <fontDescription key="fontDescription" name="umeboshi" family="umeboshi" pointSize="26"/>
+                                <fontDescription key="fontDescription" name="umeboshi" family="umeboshi" pointSize="25"/>
                                 <color key="textColor" red="0.16699644923210144" green="0.44170767068862915" blue="0.93070763349533081" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
